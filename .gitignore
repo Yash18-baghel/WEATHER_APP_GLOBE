@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-.env
 
 # testing
 /coverage
@@ -13,10 +12,9 @@
 /build
 
 # misc
+.env
 .DS_Store
 .env.local
-.env.REACT_APP_WEATHER_API_ACCESS_TOKEN
-.env.REACT_APP_MAPBOX_ACCESS_TOKEN
 .env.development.local
 .env.test.local
 .env.production.local
